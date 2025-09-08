@@ -1,0 +1,2 @@
+started_at,base,user,concurrency,qps,duration_budget_s,duration_actual_s,attempts,counts_200,counts_401,counts_403,counts_429,first_success_s,p50_ms,p95_ms,mutate,stop_on_success
+2025-09-07T11:34:22.448720+00:00,http://localhost:8000,weak1@example.com,5,3.0,180,5.558,16,1,15,0,0,3.84,62.1,326.4,False,True
