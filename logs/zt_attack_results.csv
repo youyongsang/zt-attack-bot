@@ -1,0 +1,3 @@
+﻿mode(모드),started_at(실행시작시각),ended_at(종료시각),base(API기본URL),user(대상계정),concurrency(동시수),qps(QPS상한),duration_budget_s(예산초),duration_actual_s(실제초),attempts(시도수),status_200,status_400,status_401,status_403,status_429,status_other,first_success_s(첫성공초),first_password(첫성공비번),first_note(첫성공메모),otp_code(테스트코드),first_status(첫상태),second_status(재사용상태),status_prev(이전스텝),status_now(현재스텝),status_next(다음스텝),latency_p50_ms,latency_p95_ms
+otp-invalid-spray,2025-09-15T18:09:48.975241,2025-09-15T18:10:50.969792,http://localhost:8000,20211884@edu.hanbat.ac.kr,3,2.0,60,61.993,121,0,5,0,0,116,0,,,,,,,,,,8.5,10.1
+otp-invalid-spray,2025-09-15T18:17:26.093881,2025-09-15T18:18:27.956865,http://localhost:8000,20211884@edu.hanbat.ac.kr,3,2.0,60,61.862,121,0,5,0,0,116,0,,,,,,,,,,8.4,10.0
